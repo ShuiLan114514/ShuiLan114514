@@ -1,4 +1,4 @@
-## 你好，我是水懒_ShuiLanNeko 👋
+## 你好，我是水懒 👋
 · 一名 15 岁的萌新开发者
 · 爱好计算机
 · 喜欢折腾 ProjectTreble 项目 Android 系统移植的一名萌新
@@ -7,7 +7,8 @@
 [![Coolapk](https://img.shields.io/badge/水懒的酷安-green?style=flat-square&logo=android&logoColor=white)]([http://www.coolapk.com/u/11711322])
 
 ## 📱 在役设备
-[![Xiaomi 17 Pro Max](https://img.shields.io/badge/Xiaomi%2017%20Pro%20Max-小米-pink?style=flat-square&logo=xiaomi&logoColor=white)](https://www.mi.com/)
+[![Xiaomi 17 Pro Max](https://img.shields.io/badge/Xiaomi%2017%20Pro%20Max-小米-orange?style=flat-square&logo=xiaomi&logoColor=white)](https://www.mi.com/)
+[![Xiaomi 15 Pro](https://img.shields.io/badge/Xiaomi%2017%20Pro%20Max-小米-orange?style=flat-square&logo=xiaomi&logoColor=white)](https://www.mi.com/)
 [![OnePlus Ace 5](https://img.shields.io/badge/OnePlus%20Ace%205-一加-red?style=flat-square&logo=oneplus&logoColor=white)](https://www.oneplus.com/)
 [![Redmi Note 11T Pro](https://img.shields.io/badge/Redmi%20Note%2011T%20Pro-小米-orange?style=flat-square&logo=xiaomi&logoColor=white)](https://www.mi.com/)
 [![Xiaomi 11](https://img.shields.io/badge/Xiaomi%2011-小米-orange?style=flat-square&logo=xiaomi&logoColor=white)](https://www.mi.com/)
