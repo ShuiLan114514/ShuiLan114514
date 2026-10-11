@@ -1,7 +1,7 @@
 ## 你好，我是水懒_ShuiLanNeko 👋
 · 一名 15 岁的萌新开发者
 · 爱好计算机
-· 喜欢折腾 ProjectTreble Android 系统移植的一名萌新
+· 喜欢折腾 ProjectTreble 项目 Android 系统移植的一名萌新
 
 **我的酷安**：
 [![Coolapk](https://img.shields.io/badge/水懒的酷安-green?style=flat-square&logo=android&logoColor=white)]([http://www.coolapk.com/u/11711322])
