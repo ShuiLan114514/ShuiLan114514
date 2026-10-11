@@ -8,7 +8,7 @@
 
 ## 📱 在役设备
 [![Xiaomi 17 Pro Max](https://img.shields.io/badge/Xiaomi%2017%20Pro%20Max-小米-orange?style=flat-square&logo=xiaomi&logoColor=white)](https://www.mi.com/)
-[![Xiaomi 15 Pro](https://img.shields.io/badge/Xiaomi%2017%20Pro%20Max-小米-orange?style=flat-square&logo=xiaomi&logoColor=white)](https://www.mi.com/)
+[![Xiaomi 15 Pro](https://img.shields.io/badge/Xiaomi%2015%20Pro-小米-orange?style=flat-square&logo=xiaomi&logoColor=white)](https://www.mi.com/)
 [![OnePlus Ace 5](https://img.shields.io/badge/OnePlus%20Ace%205-一加-red?style=flat-square&logo=oneplus&logoColor=white)](https://www.oneplus.com/)
 [![Redmi Note 11T Pro](https://img.shields.io/badge/Redmi%20Note%2011T%20Pro-小米-orange?style=flat-square&logo=xiaomi&logoColor=white)](https://www.mi.com/)
 [![Xiaomi 11](https://img.shields.io/badge/Xiaomi%2011-小米-orange?style=flat-square&logo=xiaomi&logoColor=white)](https://www.mi.com/)
