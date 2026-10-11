@@ -1,5 +1,5 @@
 ## 你好，我是水懒_ShuiLanNeko 👋
-· 一名初级开发者
+· 一名 15 岁的萌新开发者
 · 爱好计算机
 · 喜欢折腾 ProjectTreble Android 系统移植的一名萌新
 
@@ -23,6 +23,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ## 📊 GitHub 统计
-![GitHub Stats](https://miyuki-github.vercel.app/api/?username=mytiantian001&show_icons=true&bg_color=23272A&title_color=FF73F1&text_color=FFC0CB&icon_color=9B84EE&count_private=true&include_all_commits=true&border_color=9B84EE&border_radius=6)
+![GitHub Stats](https://miyuki-github.vercel.app/api/?username=ShuiLan114514&show_icons=true&bg_color=23272A&title_color=FF73F1&text_color=FFC0CB&icon_color=9B84EE&count_private=true&include_all_commits=true&border_color=9B84EE&border_radius=6)
 
-![Top Langs](https://miyuki-github.vercel.app/api/top-langs/?username=mytiantian001&layout=compact&bg_color=23272A&title_color=FFC0CB&text_color=FFC0CB&icon_color=9B84EE&count_private=true&include_all_commits=true&border_color=9B84EE&border_radius=6)
+![Top Langs](https://miyuki-github.vercel.app/api/top-langs/?username=ShuiLan114514&layout=compact&bg_color=23272A&title_color=FFC0CB&text_color=FFC0CB&icon_color=9B84EE&count_private=true&include_all_commits=true&border_color=9B84EE&border_radius=6)
